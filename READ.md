@@ -1,1 +1,1 @@
-info about project
+info about project dgdgs
